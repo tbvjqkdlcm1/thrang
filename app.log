@@ -32,3 +32,208 @@
 2023-09-15 20:32:37,988 - WARNING -  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment.
 2023-09-15 20:32:37,988 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:31:53,805 - INFO - This is log's info
+2023-09-15 21:31:53,805 - WARNING - This is warning logging message
+2023-09-15 21:31:53,819 - INFO -  * Restarting with stat
+2023-09-15 21:31:54,350 - INFO - This is log's info
+2023-09-15 21:31:54,350 - WARNING - This is warning logging message
+2023-09-15 21:31:54,359 - WARNING -  * Debugger is active!
+2023-09-15 21:31:54,361 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:31:55,232 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:31:55,232 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:33:58,036 - INFO - This is log's info
+2023-09-15 21:33:58,036 - WARNING - This is warning logging message
+2023-09-15 21:33:58,049 - INFO -  * Restarting with stat
+2023-09-15 21:33:58,558 - INFO - This is log's info
+2023-09-15 21:33:58,558 - WARNING - This is warning logging message
+2023-09-15 21:33:58,566 - WARNING -  * Debugger is active!
+2023-09-15 21:33:58,568 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:33:59,440 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:33:59,440 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:35:07,242 - INFO - This is log's info
+2023-09-15 21:35:07,242 - WARNING - This is warning logging message
+2023-09-15 21:35:07,256 - INFO -  * Restarting with stat
+2023-09-15 21:35:07,768 - INFO - This is log's info
+2023-09-15 21:35:07,768 - WARNING - This is warning logging message
+2023-09-15 21:35:07,776 - WARNING -  * Debugger is active!
+2023-09-15 21:35:07,778 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:35:08,649 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:35:08,649 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:35:59,278 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:35:59,350 - INFO -  * Restarting with stat
+2023-09-15 21:35:59,895 - INFO - This is log's info
+2023-09-15 21:35:59,895 - WARNING - This is warning logging message
+2023-09-15 21:35:59,903 - WARNING -  * Debugger is active!
+2023-09-15 21:35:59,905 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:36:00,773 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:36:00,774 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:36:02,556 - INFO - This is log's info
+2023-09-15 21:36:02,556 - WARNING - This is warning logging message
+2023-09-15 21:36:02,569 - INFO -  * Restarting with stat
+2023-09-15 21:36:03,098 - INFO - This is log's info
+2023-09-15 21:36:03,098 - WARNING - This is warning logging message
+2023-09-15 21:36:03,106 - WARNING -  * Debugger is active!
+2023-09-15 21:36:03,108 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:36:03,975 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:36:03,975 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:36:52,706 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:36:52,775 - INFO -  * Restarting with stat
+2023-09-15 21:36:55,019 - INFO - This is log's info
+2023-09-15 21:36:55,019 - WARNING - This is warning logging message
+2023-09-15 21:37:11,148 - INFO - This is log's info
+2023-09-15 21:37:11,148 - WARNING - This is warning logging message
+2023-09-15 21:38:44,468 - INFO - This is log's info
+2023-09-15 21:38:44,468 - WARNING - This is warning logging message
+2023-09-15 21:38:44,481 - INFO -  * Restarting with stat
+2023-09-15 21:38:45,004 - INFO - This is log's info
+2023-09-15 21:38:45,004 - WARNING - This is warning logging message
+2023-09-15 21:38:45,015 - WARNING -  * Debugger is active!
+2023-09-15 21:38:45,017 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:38:45,894 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:38:45,894 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:40:04,053 - INFO - This is log's info
+2023-09-15 21:40:04,053 - WARNING - This is warning logging message
+2023-09-15 21:40:04,056 - ERROR - Error: Path doesn't exist: 'C:\\Users\\sesac\\backend\\migrations'.  Please use the 'init' command to create a new scripts folder.
+2023-09-15 21:40:15,948 - INFO - This is log's info
+2023-09-15 21:40:15,948 - WARNING - This is warning logging message
+2023-09-15 21:40:15,951 - ERROR - Error: Path doesn't exist: 'C:\\Users\\sesac\\backend\\migrations'.  Please use the 'init' command to create a new scripts folder.
+2023-09-15 21:41:51,408 - INFO - This is log's info
+2023-09-15 21:41:51,408 - WARNING - This is warning logging message
+2023-09-15 21:41:51,424 - INFO -  * Restarting with stat
+2023-09-15 21:41:51,971 - INFO - This is log's info
+2023-09-15 21:41:51,971 - WARNING - This is warning logging message
+2023-09-15 21:41:51,980 - WARNING -  * Debugger is active!
+2023-09-15 21:41:51,982 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:41:52,858 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:41:52,860 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:43:28,075 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:43:28,140 - INFO -  * Restarting with stat
+2023-09-15 21:43:28,670 - INFO - This is log's info
+2023-09-15 21:43:28,670 - WARNING - This is warning logging message
+2023-09-15 21:43:28,678 - WARNING -  * Debugger is active!
+2023-09-15 21:43:28,679 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:43:29,559 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:43:29,560 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:43:29,755 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:43:29,822 - INFO -  * Restarting with stat
+2023-09-15 21:43:30,351 - INFO - This is log's info
+2023-09-15 21:43:30,351 - WARNING - This is warning logging message
+2023-09-15 21:43:30,359 - WARNING -  * Debugger is active!
+2023-09-15 21:43:30,361 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:43:31,227 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:43:31,228 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:43:31,456 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:43:31,521 - INFO -  * Restarting with stat
+2023-09-15 21:43:32,040 - INFO - This is log's info
+2023-09-15 21:43:32,040 - WARNING - This is warning logging message
+2023-09-15 21:43:32,049 - WARNING -  * Debugger is active!
+2023-09-15 21:43:32,051 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:43:32,933 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:43:32,933 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:45:09,973 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:45:10,042 - INFO -  * Restarting with stat
+2023-09-15 21:45:10,589 - INFO - This is log's info
+2023-09-15 21:45:10,589 - WARNING - This is warning logging message
+2023-09-15 21:45:10,598 - WARNING -  * Debugger is active!
+2023-09-15 21:45:10,601 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:45:12,173 - INFO - This is log's info
+2023-09-15 21:45:12,173 - WARNING - This is warning logging message
+2023-09-15 21:45:12,188 - INFO -  * Restarting with stat
+2023-09-15 21:45:12,737 - INFO - This is log's info
+2023-09-15 21:45:12,738 - WARNING - This is warning logging message
+2023-09-15 21:45:12,746 - WARNING -  * Debugger is active!
+2023-09-15 21:45:12,748 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:45:13,624 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:45:13,624 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:46:52,203 - INFO - This is log's info
+2023-09-15 21:46:52,203 - WARNING - This is warning logging message
+2023-09-15 21:46:52,216 - INFO -  * Restarting with stat
+2023-09-15 21:46:52,742 - INFO - This is log's info
+2023-09-15 21:46:52,742 - WARNING - This is warning logging message
+2023-09-15 21:46:52,750 - WARNING -  * Debugger is active!
+2023-09-15 21:46:52,751 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:46:53,620 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:46:53,621 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:47:17,505 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:47:17,576 - INFO -  * Restarting with stat
+2023-09-15 21:47:18,139 - INFO - This is log's info
+2023-09-15 21:47:18,139 - WARNING - This is warning logging message
+2023-09-15 21:47:18,148 - WARNING -  * Debugger is active!
+2023-09-15 21:47:18,150 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:47:19,026 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:47:19,027 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:47:29,528 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:47:29,602 - INFO -  * Restarting with stat
+2023-09-15 21:47:30,130 - INFO - This is log's info
+2023-09-15 21:47:30,130 - WARNING - This is warning logging message
+2023-09-15 21:47:30,138 - WARNING -  * Debugger is active!
+2023-09-15 21:47:30,141 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:47:31,742 - INFO - This is log's info
+2023-09-15 21:47:31,742 - WARNING - This is warning logging message
+2023-09-15 21:47:31,756 - INFO -  * Restarting with stat
+2023-09-15 21:47:32,284 - INFO - This is log's info
+2023-09-15 21:47:32,284 - WARNING - This is warning logging message
+2023-09-15 21:47:32,293 - WARNING -  * Debugger is active!
+2023-09-15 21:47:32,295 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:47:33,176 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:47:33,176 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:48:31,060 - INFO - This is log's info
+2023-09-15 21:48:31,060 - WARNING - This is warning logging message
+2023-09-15 21:48:31,073 - INFO -  * Restarting with stat
+2023-09-15 21:48:31,587 - INFO - This is log's info
+2023-09-15 21:48:31,587 - WARNING - This is warning logging message
+2023-09-15 21:48:31,596 - WARNING -  * Debugger is active!
+2023-09-15 21:48:31,598 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:48:32,471 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:48:32,471 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:48:43,027 - INFO - 127.0.0.1 - - [15/Sep/2023 21:48:43] "[33mGET /api/user HTTP/1.1[0m" 404 -
+2023-09-15 21:48:48,200 - INFO - 127.0.0.1 - - [15/Sep/2023 21:48:48] "GET /api/abc HTTP/1.1" 200 -
+2023-09-15 21:49:00,531 - INFO -  * Detected change in 'C:\\Users\\sesac\\backend\\server\\apis\\Controller\\dataAccessController.py', reloading
+2023-09-15 21:49:00,606 - INFO -  * Restarting with stat
+2023-09-15 21:49:01,128 - INFO - This is log's info
+2023-09-15 21:49:01,128 - WARNING - This is warning logging message
+2023-09-15 21:49:01,137 - WARNING -  * Debugger is active!
+2023-09-15 21:49:01,139 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:49:02,013 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:49:02,013 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:49:12,438 - INFO - This is log's info
+2023-09-15 21:49:12,438 - WARNING - This is warning logging message
+2023-09-15 21:49:12,454 - INFO -  * Restarting with stat
+2023-09-15 21:49:13,006 - INFO - This is log's info
+2023-09-15 21:49:13,006 - WARNING - This is warning logging message
+2023-09-15 21:49:13,017 - WARNING -  * Debugger is active!
+2023-09-15 21:49:13,018 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:49:13,893 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:49:13,893 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:49:14,265 - INFO - 127.0.0.1 - - [15/Sep/2023 21:49:14] "GET /api/abc HTTP/1.1" 200 -
+2023-09-15 21:49:58,378 - INFO - This is log's info
+2023-09-15 21:49:58,378 - WARNING - This is warning logging message
+2023-09-15 21:49:58,392 - INFO -  * Restarting with stat
+2023-09-15 21:49:58,912 - INFO - This is log's info
+2023-09-15 21:49:58,912 - WARNING - This is warning logging message
+2023-09-15 21:49:58,920 - WARNING -  * Debugger is active!
+2023-09-15 21:49:58,922 - INFO -  * Debugger PIN: 107-070-117
+2023-09-15 21:49:59,797 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-15 21:49:59,797 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-15 21:50:08,140 - INFO - 127.0.0.1 - - [15/Sep/2023 21:50:08] "[32mGET /api HTTP/1.1[0m" 308 -
+2023-09-15 21:50:10,263 - INFO - 127.0.0.1 - - [15/Sep/2023 21:50:10] "GET /api/ HTTP/1.1" 200 -
+2023-09-15 21:50:16,095 - INFO - 127.0.0.1 - - [15/Sep/2023 21:50:16] "[33mGET / HTTP/1.1[0m" 404 -
+2023-09-15 21:50:22,136 - INFO - 127.0.0.1 - - [15/Sep/2023 21:50:22] "GET /api/ HTTP/1.1" 200 -

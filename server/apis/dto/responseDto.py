@@ -5,3 +5,6 @@ def user_response_dto(user):
 
 def quiz_response_dto(quiz):
   return jsonify(quiz), 200
+
+def main_response_dto(result):
+  return jsonify(result), 200 
