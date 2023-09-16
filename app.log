@@ -251,3 +251,22 @@
 2023-09-15 22:15:08,844 - INFO - 127.0.0.1 - - [15/Sep/2023 22:15:08] "GET /api/ HTTP/1.1" 200 -
 2023-09-15 22:15:15,468 - INFO - 127.0.0.1 - - [15/Sep/2023 22:15:15] "[31m[1mGET /api/result/1 HTTP/1.1[0m" 400 -
 2023-09-15 22:15:34,711 - INFO - 127.0.0.1 - - [15/Sep/2023 22:15:34] "GET /api/result/6 HTTP/1.1" 200 -
+2023-09-16 11:58:13,543 - INFO - This is log's info
+2023-09-16 11:58:13,543 - WARNING - This is warning logging message
+2023-09-16 11:58:13,558 - INFO -  * Restarting with stat
+2023-09-16 11:58:14,077 - INFO - This is log's info
+2023-09-16 11:58:14,077 - WARNING - This is warning logging message
+2023-09-16 11:58:14,087 - WARNING -  * Debugger is active!
+2023-09-16 11:58:14,089 - INFO -  * Debugger PIN: 107-070-117
+2023-09-16 11:58:14,960 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2023-09-16 11:58:14,960 - INFO -  * Running on http://192.168.20.100:80/ (Press CTRL+C to quit)
+2023-09-16 11:58:30,227 - INFO - 127.0.0.1 - - [16/Sep/2023 11:58:30] "GET /api/user HTTP/1.1" 200 -
+2023-09-16 11:58:34,986 - INFO - 127.0.0.1 - - [16/Sep/2023 11:58:34] "GET /api/test/test HTTP/1.1" 200 -
+2023-09-16 11:59:16,439 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:16] "GET /api/ HTTP/1.1" 200 -
+2023-09-16 11:59:22,476 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:22] "GET /api/result/7 HTTP/1.1" 200 -
+2023-09-16 11:59:28,554 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:28] "GET /api/ranking HTTP/1.1" 200 -
+2023-09-16 11:59:45,516 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:45] "GET /api/ranking/5 HTTP/1.1" 200 -
+2023-09-16 11:59:49,611 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:49] "GET /api/ranking/1 HTTP/1.1" 200 -
+2023-09-16 11:59:51,504 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:51] "GET /api/ranking/2 HTTP/1.1" 200 -
+2023-09-16 11:59:54,456 - INFO - 127.0.0.1 - - [16/Sep/2023 11:59:54] "GET /api/ranking HTTP/1.1" 200 -

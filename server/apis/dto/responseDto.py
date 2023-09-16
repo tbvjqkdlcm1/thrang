@@ -13,3 +13,8 @@ def result_response_dto(result):
   if result == 'Not Found User':
     return jsonify(result), 400
   return jsonify(result), 200
+
+def user_ranking_response_dto(ranks):
+  if ranks == 'Not Found User':
+    return jsonify(ranks), 400
+  return jsonify(ranks), 200
