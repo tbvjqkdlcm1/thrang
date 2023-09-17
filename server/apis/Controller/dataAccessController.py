@@ -11,6 +11,7 @@ data_api_bp = Blueprint('data_api', __name__, url_prefix='/api')
 
 @data_api_bp.route('/user', methods=['GET'])
 def get_users():
+  print('get user')
   users = get_user()
   return user_response_dto(users)
 
